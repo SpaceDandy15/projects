@@ -24,8 +24,8 @@ int main()
 
     //printf("%c\n", a);  // char
     //printf("%s\n", b);  // character array
-    //printf("%f\n", c);  // float
-    //printf("%lf\n", d); // double
+    printf("%0.15f\n", c);  // float
+    printf("%0.1f\n", d); // double
     //printf("%d\n", e);  // bool
     //printf("%d\n", f);  // char as numeric value
     //printf("%d\n", g);  // unsigned char as numeric value
