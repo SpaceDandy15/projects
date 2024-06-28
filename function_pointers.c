@@ -14,7 +14,7 @@ int main()
     // int (*add_ptr)(int, int) = add;
  
     // Calling the function using the function pointer
-    int result = add_ptr(3, 4);
+    int result = add_ptr(2, 4);
     printf("Result: %d\n", result);
  
     return 0;
